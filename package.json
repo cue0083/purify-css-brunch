@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "purify-css": "sbacic/purifycss#selector-regex-fix"
+    "purify-css": "^1.2.6"
   }
 }
