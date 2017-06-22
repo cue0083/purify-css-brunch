@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sascha53/purify-css": "^1.2.6"
+    "purify-css": "sascha53/purify-css"
   }
 }
